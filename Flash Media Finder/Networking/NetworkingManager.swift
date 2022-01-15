@@ -23,7 +23,7 @@ struct NetworkingManager {
                     completion(nil,mediaArr)
                     spinner.isHidden = true
                 } catch {
-                    print("EROr from the data:\(error)") 
+                    print("EROR from the data:\(error)") 
                 }
             }
         }
