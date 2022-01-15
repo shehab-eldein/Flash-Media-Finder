@@ -7,7 +7,7 @@
 
 import Foundation
 import Alamofire
-import Network
+
 struct NetworkingManager {
     
     static  func getMedia (search: String,media: String,spinner: UIActivityIndicatorView , completion: @escaping(_ error: Error?, _ mediaArr: [Media]?) -> Void) {
@@ -23,7 +23,7 @@ struct NetworkingManager {
                     completion(nil,mediaArr)
                     spinner.isHidden = true
                 } catch {
-                    print("EROR from the data:\(error)") 
+                    print("EROR from the data:\(error)")
                 }
             }
         }
