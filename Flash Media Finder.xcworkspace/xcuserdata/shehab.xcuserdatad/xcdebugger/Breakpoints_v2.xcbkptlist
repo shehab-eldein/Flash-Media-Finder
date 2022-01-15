@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94EC6C72-8677-456C-A181-0669F15DA838"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56B674C3-0F66-4C71-9995-7ADE7BA1DC0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "isUniqueEmail(email:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58506D21-77BB-4624-9A3C-85D00E4758A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "handelPassword(pass:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/RegeisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "AlertHandling(name:email:pass:adress:img:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50 - f988b8cf247cc250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Idea_course.RegeisterVC.(AlertHandling in _ECC816232C6DCEE294738FDEA723FC87)(name: Swift.String, email: Swift.String, pass: Swift.String, adress: Swift.Optional&lt;Swift.String&gt;, img: Idea_course.codableImage) -&gt; Swift.Int"
+                  moduleName = "Idea course"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Idea%20course%2010.33.45%20PM/Idea%20course/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "467">
+               </Location>
+               <Location
+                  uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50 - f988b8cf247cc250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Idea_course.RegeisterVC.(AlertHandling in _ECC816232C6DCEE294738FDEA723FC87)(name: Swift.String, email: Swift.String, pass: Swift.String, adress: Swift.Optional&lt;Swift.String&gt;, img: Idea_course.codableImage) -&gt; Swift.Int"
+                  moduleName = "Idea course"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Idea%20course%2010.33.45%20PM/Idea%20course/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "626">
+               </Location>
+               <Location
+                  uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50 - f988b8cf247cc250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Idea_course.RegeisterVC.(AlertHandling in _ECC816232C6DCEE294738FDEA723FC87)(name: Swift.String, email: Swift.String, pass: Swift.String, adress: Swift.Optional&lt;Swift.String&gt;, img: Idea_course.codableImage) -&gt; Swift.Int"
+                  moduleName = "Idea course"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Idea%20course%2010.33.45%20PM/Idea%20course/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "709">
+               </Location>
+               <Location
+                  uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50 - f988b8cf247cc250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Idea_course.RegeisterVC.(AlertHandling in _ECC816232C6DCEE294738FDEA723FC87)(name: Swift.String, email: Swift.String, pass: Swift.String, adress: Swift.Optional&lt;Swift.String&gt;, img: Idea_course.codableImage) -&gt; Swift.Int"
+                  moduleName = "Idea course"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Idea%20course%2010.33.45%20PM/Idea%20course/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "8104E842-C1B0-483B-9640-C25AB23FEB50 - f988b8cf247cc250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Idea_course.RegeisterVC.(AlertHandling in _ECC816232C6DCEE294738FDEA723FC87)(name: Swift.String, email: Swift.String, pass: Swift.String, adress: Swift.Optional&lt;Swift.String&gt;, img: Idea_course.codableImage) -&gt; Swift.Int"
+                  moduleName = "Idea course"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Idea%20course%2010.33.45%20PM/Idea%20course/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "899">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9F4D321-3321-45F3-9AC6-4AB64BEED676"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "handelEmail(email:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7309D768-3C72-4B7D-8DDD-700A383D8F79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "isUniqueEmail(email:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1DD60DF-2805-47E4-8B7B-CFC04F227A1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "handelPassword(pass:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF45961A-12BE-44E2-A0AC-BBD95BCC36BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "isValidRegex(examined:regex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D5BAF25-FE3F-4F49-893C-D5AD9E5BCA1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/RegeisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "RegeisterVC"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69466998-464B-4DC6-8919-B2E449D4A92E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "handelData(email:pass:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FD3A70-7A8F-4646-868A-110CA126CB08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/profileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "336CF732-BF10-48A7-A682-A79535DE76B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/NetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getMedia(search:media:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F51BEED-02D6-4DEB-8890-1BF5ABDDBF43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/MovieTableVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getData(search:media:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98ED5846-D8B7-4165-B688-B084AA4FD7B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Manager/Validator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "isEmptyField(String:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E86A371-DE64-428F-AB4E-EA0124FDDDA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Model/UserModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39B33D98-FB6E-45C4-9B80-F97D0AF82A2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/RegeisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "RegeisterVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69F5ED4D-DF8E-4D24-B30C-C0CD4CAB8455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Idea course/Controller/RegeisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "AlertHandling(name:email:pass:adress:img:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "559D929D-9017-45C6-8A38-01D66B443E05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flash Media Finder/Controller/RegeisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "animateLogo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "559D929D-9017-45C6-8A38-01D66B443E05 - e0da44f111c6fa31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Media_Finder.RegeisterVC.(animateLogo in _F17DC5B6ADFADAC482DDAC465F035EAF)() -&gt; ()"
+                  moduleName = "Flash Media Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Flash%20Media%20Finder/Flash%20Media%20Finder/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "559D929D-9017-45C6-8A38-01D66B443E05 - 8fe4154a1d2f9c30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Flash_Media_Finder.RegeisterVC.(animateLogo in _F17DC5B6ADFADAC482DDAC465F035EAF)() -&gt; ()"
+                  moduleName = "Flash Media Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shehab/Desktop/Flash%20Media%20Finder/Flash%20Media%20Finder/Controller/RegeisterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
