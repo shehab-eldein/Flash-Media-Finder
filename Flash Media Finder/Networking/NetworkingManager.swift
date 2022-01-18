@@ -11,6 +11,7 @@ import Alamofire
 struct NetworkingManager {
     
     static  func getMedia (search: String,media: String,spinner: UIActivityIndicatorView , completion: @escaping(_ error: Error?, _ mediaArr: [Media]?) -> Void) {
+        
         let parameter = [NetWorking.searchaKey: search, NetWorking.mediaKey: media]
         AF.request(NetWorking.url, method: .get, parameters: parameter , encoding: URLEncoding.default, headers: nil).response {
             response in
@@ -28,5 +29,6 @@ struct NetworkingManager {
             }
         }
     }
+    
     
 }

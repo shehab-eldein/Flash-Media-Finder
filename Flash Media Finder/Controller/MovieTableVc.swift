@@ -72,7 +72,7 @@ extension MovieTabelVc: UITableViewDelegate,UITableViewDataSource  {
         mediaArray.count
     }
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "MovieCell", for: indexPath) as! MovieCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "MovieCell", for: indexPath) as! MediaCell
         let name  = mediaArray[indexPath.row].artistName
         let label  = mediaArray[indexPath.row].longDescription
         let imageUrl =  URL(string:mediaArray[indexPath.row].artworkUrl100!)
